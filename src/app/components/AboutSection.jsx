@@ -59,15 +59,15 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-[#070042] mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            Hi, I'm Lily! I'm a junior at Rutgers University, where I'm pursuing
-            a degree in Computer Science and Information Technology. I'm
-            passionate about exploring new technologies and combining my love
-            for design with development. My interests span from UI/UX design to
-            machine learning and everything in between. I enjoy solving complex
-            problems and building creative, user-centric solutions. Whether I'm
-            working on front-end development, designing intuitive interfaces, or
-            experimenting with new tools, I'm always excited to learn and push
-            my skills further.
+            Hi, I&apos;m Lily! I&apos;m a junior at Rutgers University, where
+            I&apos;m pursuing a degree in Computer Science and Information
+            Technology. I&apos;m passionate about exploring new technologies and
+            combining my love for design with development. My interests span
+            from UI/UX design to machine learning and everything in between. I
+            enjoy solving complex problems and building creative, user-centric
+            solutions. Whether I&apos;m working on front-end development,
+            designing intuitive interfaces, or experimenting with new tools,
+            I&apos;m always excited to learn and push my skills further.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
