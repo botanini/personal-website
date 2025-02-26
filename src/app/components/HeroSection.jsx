@@ -37,7 +37,9 @@ const HeroSection = () => {
               Hire Me
             </button>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-[#79AEFF] border-[2px] hover:bg-slate-800 mt-3">
-              Download CV
+              <a href="/resume_217.pdf" download className="text-white">
+                Download CV
+              </a>
             </button>
           </div>
         </div>
